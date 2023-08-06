@@ -1,0 +1,20 @@
+Hallazgos y Conclusiones del Ejercicio:
+
+Durante la ejecución de las pruebas de Automatización en demoBlaze, se han obtenido los siguientes resultados:
+
+1. Proceso de Inicio de sesión:
+   - Se realizaron pruebas exitosas para iniciar sesión con credenciales válidas.
+   - Se muestra el usuario logeado en la parte superior derecha de la pagina.
+
+2. Proceso de Proceso de compra:
+   - Se realizaron pruebas exitosas para realizar el proceso de compra completo.
+   - Se pueden agregar los productos al carrito de manera exitosa.
+   - Se puede visualizar el carrito de manera exitosa.
+   - Al completar el proceso de compra se visualiza el mensaje de "THANK YOU FOR YOUR ORDER"
+
+Conclusiones:
+   - Las pagina web de demoBlaze parece funcionar correctamente con relación a los elementos validados.
+   - Se ha verificado que la pagina web maneja el inicio de sesión de un usuario y personaliza la pagina a este, agregando su nombre en la parte superior derecha.
+
+Recomendaciones:
+   - Se recomienda implementar una validación adicional para asegurar que los datos ingresados en el proceso de compra cumplan con ciertos requisitos de seguridad y formato.
